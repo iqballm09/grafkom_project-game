@@ -4,7 +4,7 @@
 
 ## Anggota dan Role :
     |   |           Nama           |     NIM      |     Role        |
-    |:--| :-----------------------:| :----------: | --------------: |
+    |---|--------------------------|--------------|-----------------|
     | 1 | Matthew Martianus Henry  | G64190072    | Game Developer  |
     | 2 | M. Iqbal                 | G64190074    | Game Developer  |
     | 3 | Muhammad Alfarizhi       | G64190087    | Game Artist     | 
