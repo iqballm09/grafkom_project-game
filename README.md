@@ -14,7 +14,7 @@ Ada seorang mahasiswa ingin mencari uang saku tambahan, tetapi tidak ingin danus
 Kebetulan mahasiswa ini punya motor, akhirnya dia kepikiran untuk mencoba bisnis ojek di kampus. Akan tetapi, yang menjadi tantangan adalah tidak boleh ada ojek lain di kampus selain POKI sehingga dia memutuskan untuk mengojek tanpa ketahuan.
      
 ## Goals :
-     Mengojek dengan mencari keuntungan sebesar-besarnya tanpa ketahuan oleh POKI dalam jangka waktu satu hari, \jika ketahuan maka game over. Pemain akan berusaha        untuk mencapai score setinggi-tingginya yang dapat dtampilkan di scoreboard permainan.
+Mengojek dengan mencari keuntungan sebesar-besarnya tanpa ketahuan oleh POKI dalam jangka waktu satu hari, \jika ketahuan maka game over. Pemain akan berusaha        untuk mencapai score setinggi-tingginya yang dapat dtampilkan di scoreboard permainan.
      
 ## Rules :
       1. Mahasiswa menjadi pengojek selama permainan berlangsung
