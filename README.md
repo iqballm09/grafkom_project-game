@@ -3,7 +3,7 @@
 ## Tema : IPB
 
 ## Anggota dan Role 
-|No | Nama                     | NIM          | Role            |
+|   | Nama                     | NIM          | Role            |
 |---|--------------------------|--------------|-----------------|
 | 1 | Matthew Martianus Henry  | G64190072    | Game Developer  |
 | 2 | M. Iqbal                 | G64190074    | Game Developer  |
