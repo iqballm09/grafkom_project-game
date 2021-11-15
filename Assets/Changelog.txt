@@ -1,0 +1,8 @@
+15 Nov 2021:
+1. Nambahin gameobject motor, sebagai si ojek ilegal beserta program untuk maju, mundur, ke kiri dan kanan.
+2. Motor hanya bisa bergerak di jalan, gabisa naik ke trotoar.
+3. Menambahkan trotoar di pinggir jalan.
+
+Next :
+1. Cari aset buat POKI
+2. memprogram si POKI
