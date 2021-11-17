@@ -4,10 +4,15 @@ using UnityEngine;
 
 public class Ojek : MonoBehaviour
 {
+
+    Rigidbody2D rigidbody2d;
+    float horizontal;
+    float vertical;
+
     // Start is called before the first frame update
     void Start()
     {
-
+        rigidbody2d = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
@@ -15,38 +20,15 @@ public class Ojek : MonoBehaviour
     {
        float horizontal = Input.GetAxis("Horizontal");
        float vertical = Input.GetAxis("Vertical");
-
        Vector2 position = transform.position;
-       if (Input.GetKey(KeyCode.A))
-       {
-           if(position.x < -3.533976f)
-           {
-                position.x = -3.533976f;
-           }
-           else
-           {
-                position.x = position.x + 3f * horizontal * Time.deltaTime;
-           }
-       }
-       if (Input.GetKey(KeyCode.D))
-       {
-           if(position.x > 3.533976f)
-           {
-                position.x = 3.533976f;
-           }
-           else
-           {
-                position.x = position.x + 3f * horizontal * Time.deltaTime;
-           }
-       }
-       if (Input.GetKey(KeyCode.W))
-       {
-           position.y = position.y + 3f * vertical * Time.deltaTime;
-       }
-       else if (Input.GetKey(KeyCode.S))
-       {
-           position.y = position.y + 0.5f * vertical * Time.deltaTime;
-       }
-       transform.position = position;
+       position.x = position.x + 3f * horizontal * Time.deltaTime;
+       position.y = position.y + 3f * vertical * Time.deltaTime;
+        transform.position = position;
+    }
+
+    void FixedUpdate()
+    {
+        Vector2 rigid_position = rigidbody2d.position;
+        rigidbody2d.MovePosition(rigid_position);
     }
 }
