@@ -3,6 +3,12 @@
 2. Motor hanya bisa bergerak di jalan, gabisa naik ke trotoar.
 3. Menambahkan trotoar di pinggir jalan.
 
+17 Nov 2021:
+1. Nambahin beberapa asset IPB
+2. Tambahin Aset POKI
+3. Membuat kamera bisa mengikuti ojek ilegal
+4. Menambahkan collider ke POKI dan pinggiran jalan.
+
 Next :
-1. Cari aset buat POKI
-2. memprogram si POKI
+1. memprogram si POKI biar gerak.
+2. Nambahin program yang membuat gameover apabila nyentuh POKI.
