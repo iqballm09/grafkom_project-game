@@ -13,6 +13,9 @@
 1. Memprogram supaya kalau ojek nabrak POKI, maka ojek mati (gameover).
 2. POKI bisa gerak (tapi aneh banget gerakannya).
 
+22 Nov 2021 :
+1. membuat dan mengupdate beberapa asset
+
 Next :
 1. memprogram si POKI biar gerak sesuai arah jalan.
 2. Munculin tulisan gameover dan mengarahkan ke scoreboard.
