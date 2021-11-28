@@ -15,7 +15,10 @@
 
 22 Nov 2021 :
 1. membuat dan mengupdate beberapa asset
-2. menambah fitur start menu kecuali scroeboard
+2. menambah fitur start menu kecuali scoreboard
+
+29 Nov 2021 :
+1. Membuat tampilan pause menu dan programnya.
 
 Next :
 1. memprogram si POKI biar gerak sesuai arah jalan.
