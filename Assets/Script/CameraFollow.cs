@@ -25,8 +25,7 @@ namespace Cainos.PixelArtTopDown_Basic
 
             offset = transform.position - target.position;
 
-            //size_bg = bg1.GetComponent<Renderer>().bounds.size.y;
-            size_bg = 148.5f;
+            size_bg = bg1.GetComponent<Renderer>().bounds.size.y - 1;
         }
 
         private void Update()

@@ -27,26 +27,26 @@ public class Ojek : MonoBehaviour
        Vector2 position = transform.position;
        if(Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.D))
        {
-            if(position.x < -6.987047f)
+            if(position.x < -14.5f)
             {
-                position.x = -6.987047f;
+                position.x = -14.5f;
             }
-            else if (position.x > 12.86088f)
+            else if (position.x > 14f)
             {
-                position.x = 12.86088f;
+                position.x = 14f;
             }
             else
             {
-                position.x = position.x + 2.5f * horizontal * Time.deltaTime;
+                position.x = position.x + 6.5f * horizontal * Time.deltaTime;
             }
        }
        else if(Input.GetKey(KeyCode.W))
        {
-           position.y = position.y + 3f * vertical * Time.deltaTime;
+           position.y = position.y + 7f * vertical * Time.deltaTime;
        }
        else if(Input.GetKey(KeyCode.S))
        {
-           position.y = position.y + 1f * vertical * Time.deltaTime;
+           position.y = position.y + 3.5f * vertical * Time.deltaTime;
        }
        transform.position = position;
     }
