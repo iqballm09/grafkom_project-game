@@ -31,20 +31,13 @@ public class POKI : MonoBehaviour
     void FixedUpdate()
     {
         Vector2 position = rigid.position;
-        if (v)
-        {
-            position.y = position.y + Time.deltaTime * 3f;
-        }
-        else
-        {
-            position.x = position.x + Time.deltaTime * 3f;
-        }
+        position.y = position.y - Time.deltaTime * 4f;
         rigid.MovePosition(position);
     }
 
     void OnCollisionEnter2D(Collision2D other)
     {
-        Ojek player = other.gameObject.GetComponent<Ojek >();
+        Ojek player = other.gameObject.GetComponent<Ojek>();
 
         if (player != null)
         {

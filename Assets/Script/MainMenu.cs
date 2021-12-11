@@ -12,6 +12,7 @@ public class MainMenu : MonoBehaviour {
     public void QuitGame()
     {
         Debug.Log("QUIT!");
+        PlayerPrefs.SetInt("highscore", 0);
         Application.Quit();
     }
 }

@@ -8,9 +8,10 @@ public class Ojek : MonoBehaviour
     int maxHealth = 1;
     int currentHealth;
 
-    Rigidbody2D rigidbody2d;
+    public Rigidbody2D rigidbody2d;
     float horizontal;
     float vertical;
+    public GameOver gameOver;
 
     // Start is called before the first frame update
     void Start()
@@ -60,6 +61,7 @@ public class Ojek : MonoBehaviour
     public void ChangeHealth(int amount)
     {
         currentHealth = Mathf.Clamp(currentHealth + amount, 0, maxHealth);
-        Debug.Log(currentHealth + "/" + maxHealth);
+        gameOver.EndGame();
+
     }
 }
