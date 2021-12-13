@@ -26,8 +26,7 @@ Permainan merupakan endless game yang akan berakhir ketika ojek ilegal menabrak 
 <img src="https://user-images.githubusercontent.com/63547189/145832126-1fb1ca94-9a8f-4602-83fd-e1af26938321.png" alt="ojekilegal" width="100" height="200"/>
 
 2. POKI
-
-![POKI](https://user-images.githubusercontent.com/63547189/145832214-3d6215c1-25e7-4668-aebf-c25bb5ee6175.png)
+<img src="https://user-images.githubusercontent.com/63547189/145832214-3d6215c1-25e7-4668-aebf-c25bb5ee6175.png" alt="poki" width="200" height="100"/>
 
 3. Background
 
