@@ -10,21 +10,38 @@
 | 3 | Muhammad Alfarizhi       | G64190087    | Game Artist     | 
 
 ## Story 
-Ada seorang mahasiswa ingin mencari uang saku tambahan, tetapi tidak ingin danusan karena modal yang tidak cukup dan gengsi.
-Kebetulan mahasiswa ini punya motor, akhirnya dia kepikiran untuk mencoba bisnis ojek di kampus. Akan tetapi, yang menjadi tantangan adalah tidak boleh ada ojek lain di kampus selain POKI sehingga dia memutuskan untuk mengojek tanpa ketahuan.
-     
+Ada seorang mahasiswa ingin mencari uang saku tambahan, tetapi tidak ingin danusan karena modal yang dimiliki tidak cukup dan rasa gengsi yang dimiliki mahasiswa tersebut. Mahasiswa ini memiliki motor dan akhirnya memutuskan untuk mencoba jadi tukang ojek di kampus. Akan tetapi,  tidak boleh ada ojek lain di kampus selain POKI sehingga dia memutuskan untuk mengojek secara diam diam tanpa ketahuan.
+
 ## Goals 
-Mengendarai motor dengan tanpa menabrak POKI, jika menabrak POKI maka game over. Pemain akan berusaha        untuk mencapai score setinggi-tingginya yang dapat dilihat saat permainan berlangsung.
-     
+Permainan merupakan endless game yang akan berakhir ketika ojek ilegal menabrak POKI. Ketika ojek menabrak POKI, maka diasumsikan ojek telah tertangkap atau ketahuan oleh POKI sehingga permainan berakhir. Pemain akan berupaya untuk mendapatkan skor yang lebih tinggi dibandingkan high score sebelumnya
+
 ## Rules 
   1. Mahasiswa menjadi pengojek selama permainan berlangsung
-  2. Terdapat penumpang yang menunggu di tiap sisi jalan 
-  3. Pengojek harus mengantarkan penumpang ke destinasi yang dituju
-  4. Setelah sampai, penumpang turun dan pengojek akan mendapat bayaran
-  5. Saat ada penumpang, pengojek harus berhati-hati agar tidak ketahuan oleh POKI
-  6. Jika ketahuan oleh POKI, maka game over.
+  2. Pengojek harus berhati hati dalam mengantarkan penumpang agar tidak ketahuan oleh POKI.
+  3. Pengojek akan dianggap ketahuan apabila menabrak POKI. 
+  4. Jika menabrak POKI, maka game over.
 
 ## Assets
-In Progress
-    
+1. Ojek Ilegal
+
+![ojekilegal](https://user-images.githubusercontent.com/63547189/145832126-1fb1ca94-9a8f-4602-83fd-e1af26938321.png)
+
+2. POKI
+
+![POKI](https://user-images.githubusercontent.com/63547189/145832214-3d6215c1-25e7-4668-aebf-c25bb5ee6175.png)
+
+3. Background
+
+![sprite 1](https://user-images.githubusercontent.com/63547189/145832385-f78545e6-9abd-46f7-9be2-eef7637537dc.png)
+
+
 ## Tampilan game
+1. Start 
+
+
+## Tutorial yang Digunakan
+1. https://learn.unity.com/project/ruby-s-2d-rpg (Konsep Dasar)
+2. https://www.youtube.com/watch?v=H6q-Y5JAiDk (Looping Background) 
+3. https://youtu.be/JivuXdrIHK0 (Pause Menu)
+4. https://youtu.be/zc8ac_qUXQY (Start Menu)
+5. https://youtu.be/VbZ9_C4-Qbo (Game Over)
