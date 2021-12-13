@@ -36,7 +36,8 @@ Permainan merupakan endless game yang akan berakhir ketika ojek ilegal menabrak 
 
 
 ## Tampilan game
-1. Start 
+1. Tampilan awal permainan
+![tampilan awal](https://drive.google.com/file/d/1gI66n-DJH3QIxYVjGPAlSbvaQJhWXUad/view?usp=sharing)
 
 
 ## Tutorial yang Digunakan
