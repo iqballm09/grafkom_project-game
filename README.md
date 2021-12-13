@@ -51,6 +51,7 @@ Permainan merupakan endless game yang akan berakhir ketika ojek ilegal menabrak 
 ![gameover](https://github.com/iqballm09/grafkom_project-game/blob/master/Screenshots/Screenshot%202021-12-13%20220507.png?raw=true)
 
 5. Tampilan pause menu
+
 ![pause](https://github.com/iqballm09/grafkom_project-game/blob/master/Screenshots/pause.png?raw=true)
 
 
