@@ -23,7 +23,7 @@ Permainan merupakan endless game yang akan berakhir ketika ojek ilegal menabrak 
 
 ## Assets
 1. Ojek Ilegal
-<img src="https://user-images.githubusercontent.com/63547189/145832126-1fb1ca94-9a8f-4602-83fd-e1af26938321.png" alt="ojekilegal" width="80" height="100"/>
+<img src="https://user-images.githubusercontent.com/63547189/145832126-1fb1ca94-9a8f-4602-83fd-e1af26938321.png" alt="ojekilegal" width="100" height="200"/>
 
 2. POKI
 
