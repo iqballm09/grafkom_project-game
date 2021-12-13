@@ -23,12 +23,15 @@ Permainan merupakan endless game yang akan berakhir ketika ojek ilegal menabrak 
 
 ## Assets
 1. Ojek Ilegal
-[ojekilegal](https://user-images.githubusercontent.com/63547189/145832126-1fb1ca94-9a8f-4602-83fd-e1af26938321.png)
+
+![ojekilegal](https://user-images.githubusercontent.com/63547189/145832126-1fb1ca94-9a8f-4602-83fd-e1af26938321.png)
 
 2. POKI
+
 ![POKI](https://user-images.githubusercontent.com/63547189/145832214-3d6215c1-25e7-4668-aebf-c25bb5ee6175.png)
 
 3. Background
+
 ![sprite 1](https://user-images.githubusercontent.com/63547189/145832385-f78545e6-9abd-46f7-9be2-eef7637537dc.png)
 
 
